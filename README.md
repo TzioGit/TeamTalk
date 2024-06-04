@@ -1,44 +1,27 @@
-TeamTalk App
-Simple overview of use/purpose.
+== TeamTalk == 
 
-Description
-An in-depth paragraph about your project and overview of use.
+An app made for close friends or teams to communicate with each others privately for any purpose.
 
-Getting Started
-Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
-Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-Help
-Any advise for common problems or issues.
+== Getting Started == 
+1. Open TeamTalk and sign up with your details.
+2. Verify your account using the link sent to the email you registered with on TeamTalk.
+3. You are ready to start talking right away.
 
-command to run if program contains helper info
-Authors
-Contributors names and contact info
+== How to Find Your People == 
+1. Press the 3 lines on the upper left corner.
+2. From there, choose Network.
+3. Once loaded, find your friend through their username.
+4. After you find them, press the 2-messages icon to start private chatting.
+5. (Optional) You can press the star icon to add the person to your favorites, so that you can find them easier at anytime.
 
-ex. Dominique Pizzie
-ex. @DomPizzie
+== Sections ==
+Chat Section : Your Chats with other users as well as public chat.
+Network Section : App Users
+Users Videos Section : Any User can post videos here of any activity.
+Privacy Policy Section : Privacy Policy Pop-Up Message of the App.
 
-Version History
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
-Initial Release
-License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+== Donate to my App ==
+You can support me by removing the ads on my app for only 2.99 Eur / Lifetime. However this is not required in order to use the app. You could just show me your support. 
 
-Acknowledgments
-Inspiration, code snippets, etc.
-
-awesome-readme
-PurpleBooth
-dbader
-zenorocha
-fvcproductions
+== Disclaimer ==
+This app is in beta version which means that it is under-development and not fully ready yet. Updates will be coming in the near future!
